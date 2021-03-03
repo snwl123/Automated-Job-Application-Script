@@ -46,9 +46,9 @@ pip install Selenium
 https://pypi.org/project/selenium/  
   
 *Chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads*  
-*Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/* 
-*Firefox: https://github.com/mozilla/geckodriver/releases* 
-*Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/* 
+*Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/*  
+*Firefox: https://github.com/mozilla/geckodriver/releases*  
+*Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/*  
   
   
 **4. Install dotenv.**  
@@ -80,8 +80,8 @@ websites = [
 **7. Run command to automate submission of job applications.**  
 ```sh
 py job_application.py
-```
-DEPTH_LIMIT is optional. Set DEPTH_LIMIT to your preferred recursion depth limit that is more than 0.  
+```  
+  
   
   
 **8. Deactivate virtual environment.**  
@@ -96,9 +96,6 @@ Not yet implemented checking for webpage title.
   
 -  For more information on virtual environments:   
    https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/  
-
--  For more information on Scrapy:   
-   https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 
 
