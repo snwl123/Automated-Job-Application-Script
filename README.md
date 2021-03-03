@@ -37,14 +37,8 @@ https://pypi.org/project/selenium/
 Requires: Python 2.7, 3.4+
   
   
-**3. Install preferred web driver.**  
-  
-```sh
-pip install Selenium
-```  
+**3. Install preferred web driver in a chosen directory.**  
    
-https://pypi.org/project/selenium/  
-  
 *Chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads*  
 *Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/*  
 *Firefox: https://github.com/mozilla/geckodriver/releases*  
